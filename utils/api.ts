@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: "https://reactnative.devcamp.space/memipedia/"
+    baseURL: "https://toddt67878.devcamp.space/memipedia/"
 });
