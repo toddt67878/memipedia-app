@@ -7,7 +7,7 @@ const { textFieldWrapper, textField } = textInputStyles;
 import authScreenStyles from "../../styles/stacks/auth/authScreenStyles";
 
 const apiEndpoint =
-    "https://reactnative.devcamp.space/memipedia/memipedia_user_token";
+    "https://toddt67878.devcamp.space/memipedia/memipedia_user_token";
 
 export default () => {
     const [formToShow, setFormToShow] = useState("LOGIN");
